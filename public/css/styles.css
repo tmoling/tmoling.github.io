@@ -1,9 +1,4 @@
-/*!
- * Bootstrap v3.3.7 (http://getbootstrap.com)
- * Copyright 2011-2016 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -6727,8 +6722,8 @@ button.close {
   height: 100%;
   padding: 100px 0;
   text-align: center;
-  color: black;
-  background: url('../images/chicago-scape***.jpg') no-repeat center scroll;
+  color: rgb(180, 6, 6);
+  background: url('../images/colorbars.jpg') no-repeat center scroll;
   background-color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -6742,12 +6737,12 @@ button.close {
 .intro .intro-body .brand-heading {
   font-size: 2.25em;
   margin-bottom: 0;
-  color: black;
+  color: white;
 }
 .intro .intro-body .intro-text {
   margin-bottom: 0;
   font-size: 1em;
-  color: black;
+  color: white;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .content-section {
@@ -6888,7 +6883,7 @@ button.close {
   padding: 50px 0;
   color: black;
   background-color: #ffffff;
-  background: url('../images/***.jpg') no-repeat center center scroll;
+  background: url('../images/bw-mural2.jpg') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -6972,7 +6967,7 @@ p {
   line-height: 1.5;
 }
 a {
-  color: #252424;
+  color: white;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -7117,7 +7112,7 @@ a:focus {
   height: 500px;
   padding: 50px 0;
   color: #222222;
-  background: url('../images/***.jpeg') no-repeat center center scroll;
+  background: url('../images/bike2.jpg') no-repeat center center scroll;
   background-color: #ffffff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -7165,7 +7160,7 @@ a:focus {
   .intro .intro-body .intro-text {
     margin-bottom: 0;
     font-size: 30px;
-    color: black;
+    color: white;
     font-weight: 500;
   }
   footer {
